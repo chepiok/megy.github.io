@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["265P8YLNV7.net.megy.stokk"],
+        "components": [
+          { "/": "/nfc/*" }
+        ]
+      }
+    ]
+  }
+}
